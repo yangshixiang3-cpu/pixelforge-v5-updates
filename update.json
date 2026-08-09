@@ -1,8 +1,8 @@
 {
-  "version": "5.0.3",
-  "downloadUrl": "https://github.com/yangshixiang3-cpu/pixelforge-v5-updates/releases/download/v5.0.3/PixelForge-V5.0.3-Setup.exe",
-  "sha256": "0aad8e1be8f2fbbfb3115fb5d5fde6209ac62032dd0b144194a35d2408d6f9c5",
-  "releaseUrl": "https://github.com/yangshixiang3-cpu/pixelforge-v5-updates/releases/tag/v5.0.3",
-  "notes": "PixelForge V5.0.3 startup fix.",
-  "signature": "MEUCIQD_6HMAHIyGnT6t4tJwUZsff2d7IKuftFIx7j_xX-b_9gIgWcUD08hOqJxsGWjstsdHiVtvX37wcLHGbjyfL3EPnfM"
+  "version": "5.0.4",
+  "downloadUrl": "https://github.com/yangshixiang3-cpu/pixelforge-v5-updates/releases/download/v5.0.4/PixelForge-V5.0.4-Setup.exe",
+  "sha256": "9d188169dacf1fe02a8d6d98abb07fc00ef86937afc32ac0102022bcf93b4f66",
+  "releaseUrl": "https://github.com/yangshixiang3-cpu/pixelforge-v5-updates/releases/tag/v5.0.4",
+  "notes": "PixelForge V5.0.4 adds Nano Banana Pro.",
+  "signature": "MEUCIQDJB7ql6HpUCCNAVWodq6yIjgQ81usEXLIbrwdBM5N77AIgcHSBZh7Y8VjjGEgAOqSKnmKdft9KX56kZFZ-oZ6H5cc"
 }
