@@ -1,8 +1,8 @@
 {
-  "version": "5.0.5",
-  "downloadUrl": "https://github.com/yangshixiang3-cpu/pixelforge-v5-updates/releases/download/v5.0.5/PixelForge-V5.0.5-Setup.exe",
-  "sha256": "6ba37d43aa46a56baad51ee5084014a697e01ac712b877a1d99203be943d2ed0",
-  "releaseUrl": "https://github.com/yangshixiang3-cpu/pixelforge-v5-updates/releases/tag/v5.0.5",
-  "notes": "PixelForge V5.0.5 RelayBases Nano Banana Pro route fix.",
-  "signature": "MEQCIG14IYLz6FrIwexA4CXq7s80rBf5zK4ittQi-hJ9-Nz4AiAGA6ukn7IsURpBSpmlxok0nLuC_A2EJ0njUepuURErMA"
+  "version": "5.0.4",
+  "downloadUrl": "https://github.com/yangshixiang3-cpu/pixelforge-v5-updates/releases/download/v5.0.4/PixelForge-V5.0.4-Setup.exe",
+  "sha256": "BF078A0B1ACB792978124A1C2EEB2BA7E952DA909E5C805E9EC255E8693D5F4C",
+  "releaseUrl": "https://github.com/yangshixiang3-cpu/pixelforge-v5-updates/releases/tag/v5.0.4",
+  "notes": "PixelForge V5.0.4 adds ZIKL Image 2 provider.",
+  "signature": "MEQCIAp91i08wmRtFUX5YwLaNQJO0uan3LNHa3Au9mekA4JVAiBMxK6uwooHi0wSPytWfk2fC4LbSqeCLT4XlD_ioXpUWA"
 }
