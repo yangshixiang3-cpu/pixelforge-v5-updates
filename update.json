@@ -1,8 +1,8 @@
 {
   "version": "5.0.4",
   "downloadUrl": "https://github.com/yangshixiang3-cpu/pixelforge-v5-updates/releases/download/v5.0.4/PixelForge-V5.0.4-Setup.exe",
-  "sha256": "BF078A0B1ACB792978124A1C2EEB2BA7E952DA909E5C805E9EC255E8693D5F4C",
+  "sha256": "13ad4a7e317cba8145067ec2d6a0313d14129f829c0fd132ddb9c18fc3982865",
   "releaseUrl": "https://github.com/yangshixiang3-cpu/pixelforge-v5-updates/releases/tag/v5.0.4",
   "notes": "PixelForge V5.0.4 adds ZIKL Image 2 provider.",
-  "signature": "MEQCIAp91i08wmRtFUX5YwLaNQJO0uan3LNHa3Au9mekA4JVAiBMxK6uwooHi0wSPytWfk2fC4LbSqeCLT4XlD_ioXpUWA"
+  "signature": "MEUCIE4fGr4rjN-DXJm87849WmFf0Ly2ZzaNfhTNK_00_dw9AiEAv5lN1EaCFiPP8XUbIHdfrorD8afW5s1ztmphKU5DwcA"
 }
