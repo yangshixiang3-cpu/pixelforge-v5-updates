@@ -1,8 +1,8 @@
 {
-  "version": "5.0.1",
-  "downloadUrl": "https://github.com/yangshixiang3-cpu/pixelforge-v5-updates/releases/download/v5.0.1/PixelForge-V5.0.1-Setup.exe",
-  "sha256": "17315858c23ee7b9cf06c62e6ddc9d8933460ff92c4ffdc2b234f7be4305b05e",
-  "releaseUrl": "https://github.com/yangshixiang3-cpu/pixelforge-v5-updates/releases/tag/v5.0.1",
-  "notes": "PixelForge V5.0.1 update.",
-  "signature": "MEYCIQCbp7jhWGyraNv7QtMk3Z4bNCecvneE4G6FaNltz9dnLwIhAKkmyrTou2cSTjR3sKuEi6vGTGpvpppz_SZzES1vIemA"
+  "version": "5.0.2",
+  "downloadUrl": "https://github.com/yangshixiang3-cpu/pixelforge-v5-updates/releases/download/v5.0.2/PixelForge-V5.0.2-Setup.exe",
+  "sha256": "ac98ca43a5f9ec3c8a8bc35f30dd8c0cb823e65389b7b0a7c84519a8fcf80f59",
+  "releaseUrl": "https://github.com/yangshixiang3-cpu/pixelforge-v5-updates/releases/tag/v5.0.2",
+  "notes": "PixelForge V5.0.2 login fix.",
+  "signature": "MEUCIAKX6YU0U4H6bbkYlQ0JF9ULGSFTIP37uE0FjramJngbAiEA-o5glNNHAo0-eO9pQDN69YfmuT5eBnavxQAEZVX1FAc"
 }
