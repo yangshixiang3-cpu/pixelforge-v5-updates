@@ -1,8 +1,8 @@
 {
-  "version": "5.0.4",
-  "downloadUrl": "https://github.com/yangshixiang3-cpu/pixelforge-v5-updates/releases/download/v5.0.4/PixelForge-V5.0.4-Setup.exe",
-  "sha256": "848a5bff8f091de747ce989f64f75389d93b63ee54c0d29fffbb3be87598eea2",
-  "releaseUrl": "https://github.com/yangshixiang3-cpu/pixelforge-v5-updates/releases/tag/v5.0.4",
-  "notes": "PixelForge V5.0.4 fixes @ image mention overlay and image role mapping.",
-  "signature": "MEYCIQChJL5n0az32FxNkCKLndE5FklEqt5TNoeaFpEEDQzMhAIhAMD0ZnhEjvwaCCv6JoURRwP5zp9ObQBhr4aUvygjgBZQ"
+  "version": "5.0.5",
+  "downloadUrl": "https://github.com/yangshixiang3-cpu/zhihui-local-editor-updates/releases/download/v5.0.5/PixelForge-V5.0.5-Setup.exe",
+  "sha256": "7abfb83c28002365cbbb528b84ed3b70867f20cdd0638a500b452aa2802ef657",
+  "releaseUrl": "https://github.com/yangshixiang3-cpu/zhihui-local-editor-updates/releases/tag/v5.0.5",
+  "notes": "PixelForge V5.0.5: fix parallel multi-candidate generation for ZIKL.",
+  "signature": "MEUCIFLd6i7JgZBTcpPDu_JaIUdA8Xy-9VymdnA4l0UcIhPnAiEApvIg95dpfSLegbDw1f195-WkUVahATuxaXMmGSLUXoM"
 }
