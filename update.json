@@ -1,8 +1,8 @@
 {
   "version": "5.0.6",
-  "downloadUrl": "https://github.com/yangshixiang3-cpu/pixelforge-v5-updates/releases/download/v5.0.6/PixelForge-V5.0.6-Refresh-20260813.zip",
+  "downloadUrl": "https://github.com/yangshixiang3-cpu/zhihui-local-editor-updates/releases/download/v5.0.6/PixelForge-V5.0.6-Refresh-20260813.zip",
   "sha256": "1202e861de334a490fdc66a3aa112a4caddcca62015af6385e44a437ad032d44",
-  "releaseUrl": "https://github.com/yangshixiang3-cpu/pixelforge-v5-updates/releases/tag/v5.0.6",
-  "notes": "PixelForge V5.0.6 refresh: new tasks preview the original selection before results; Chinese IME and input stability fixes included.",
-  "signature": "MEQCIE0KVXTac6ej8IE/rJbHIAxfjHztifiB4Nzm0qYfVEhXAiAxJ3Xoyp3G9k4uUSKBhC/nOeAUurUVUYoyC1zcJoDGUA=="
+  "releaseUrl": "https://github.com/yangshixiang3-cpu/zhihui-local-editor-updates/releases/tag/v5.0.6",
+  "notes": "PixelForge V5.0.6 refresh: new tasks now preview the original selection before results, with Chinese IME and input stability fixes.",
+  "signature": "MEUCIQDVZPsk1jlkGFZu+TxMraxP+cygeyw0vwuVtCRRtOCAogIgcew6Xrrnb6o6vQbTA88iEL9em56ETw9qqEClEW7xPSs="
 }
