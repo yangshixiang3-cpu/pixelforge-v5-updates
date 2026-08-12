@@ -1,8 +1,8 @@
 {
-  "version": "5.0.5",
-  "downloadUrl": "https://github.com/yangshixiang3-cpu/zhihui-local-editor-updates/releases/download/v5.0.5/PixelForge-V5.0.5-Update.zip",
-  "sha256": "c4d3bc3fd3d77254b0f1c65ac16fe7ab1090745b76098b92817c9d823bbb1f9d",
-  "releaseUrl": "https://github.com/yangshixiang3-cpu/zhihui-local-editor-updates/releases/tag/v5.0.5",
-  "notes": "PixelForge V5.0.5: direct ZIP update without EXE installer.",
-  "signature": "MEUCIAU9ZW9nE8gU8v2XNkVq1x_wB0wTvzPnkanhGlKcBgPOAiEA_NtgnDxpHi5IpAVWLIQF1aCzc8S6_q_cmyeN5iN7-Gs"
+  "version": "5.0.6",
+  "downloadUrl": "https://github.com/yangshixiang3-cpu/zhihui-local-editor-updates/releases/download/v5.0.6/PixelForge-V5.0.6-Update.zip",
+  "sha256": "457884b650d6881e3de87d9a9cc269a5cd007e53aa928443d79ffc353931a638",
+  "releaseUrl": "https://github.com/yangshixiang3-cpu/zhihui-local-editor-updates/releases/tag/v5.0.6",
+  "notes": "PixelForge V5.0.6: fixed Chinese IME prompt input, generation feedback, horizontal result scrolling, and ZIKL candidate count.",
+  "signature": "MEUCIQD7y2frIO84uxRjQUqenuX+DH37MmSOL6CPz9BrRezZHAIgRh61ZIhCLa0gIGhpEvfOT2MT7RQPkT+OVa4xt/UjL4I="
 }
