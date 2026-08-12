@@ -1,8 +1,8 @@
 {
-  "version": "5.0.6",
-  "downloadUrl": "https://github.com/yangshixiang3-cpu/zhihui-local-editor-updates/releases/download/v5.0.6/PixelForge-V5.0.6-Refresh-20260813.zip",
-  "sha256": "1202e861de334a490fdc66a3aa112a4caddcca62015af6385e44a437ad032d44",
-  "releaseUrl": "https://github.com/yangshixiang3-cpu/zhihui-local-editor-updates/releases/tag/v5.0.6",
-  "notes": "PixelForge V5.0.6 refresh: new tasks now preview the original selection before results, with Chinese IME and input stability fixes.",
-  "signature": "MEUCIQDVZPsk1jlkGFZu+TxMraxP+cygeyw0vwuVtCRRtOCAogIgcew6Xrrnb6o6vQbTA88iEL9em56ETw9qqEClEW7xPSs="
+  "version": "5.0.7",
+  "downloadUrl": "https://raw.githubusercontent.com/yangshixiang3-cpu/zhihui-local-editor-updates/main/PixelForge-V5.0.7-Update.zip",
+  "sha256": "fe8fb0292c53f217695e803a5b3fd9dd22d87b4824ea57d016aee7991627dc68",
+  "releaseUrl": "https://github.com/yangshixiang3-cpu/zhihui-local-editor-updates/blob/main/PixelForge-V5.0.7-Update.zip",
+  "notes": "PixelForge V5.0.7: downloaded updates now wait for Photoshop to close before installing, with an installation log for diagnostics.",
+  "signature": "MEUCIQCP41WU83g6jgK4CpRdYak3X+Nn+e1NJ1vYe2B74CsuugIgVkVqhVll9rotxETEpH10MafxKDlH3jNGEa93PGNo0JE="
 }
