@@ -1,8 +1,8 @@
 {
   "version": "5.0.7",
-  "downloadUrl": "https://raw.githubusercontent.com/yangshixiang3-cpu/zhihui-local-editor-updates/main/PixelForge-V5.0.7-Update.zip",
-  "sha256": "fe8fb0292c53f217695e803a5b3fd9dd22d87b4824ea57d016aee7991627dc68",
-  "releaseUrl": "https://github.com/yangshixiang3-cpu/zhihui-local-editor-updates/blob/main/PixelForge-V5.0.7-Update.zip",
+  "downloadUrl": "https://raw.githubusercontent.com/yangshixiang3-cpu/zhihui-local-editor-updates/main/PixelForge-V5.0.7-Setup.exe",
+  "sha256": "023db0d0fe6cb71909a2ab651342d1a7bc617a179186a5c1d438b65b4ef9b31b",
+  "releaseUrl": "https://github.com/yangshixiang3-cpu/zhihui-local-editor-updates/blob/main/PixelForge-V5.0.7-Setup.exe",
   "notes": "PixelForge V5.0.7: downloaded updates now wait for Photoshop to close before installing, with an installation log for diagnostics.",
-  "signature": "MEUCIQCP41WU83g6jgK4CpRdYak3X+Nn+e1NJ1vYe2B74CsuugIgVkVqhVll9rotxETEpH10MafxKDlH3jNGEa93PGNo0JE="
+  "signature": "MEQCIB/IJBYMwEycBGYi5R1OV4xH1RM61c2dhsqynQm3VgFDAiB+gziFfTBcNhEPtKM+g4kd+gANDbN8ol4PWIdldf9i5A=="
 }
